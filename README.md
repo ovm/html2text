@@ -1,2 +1,2 @@
 # html2text
-shitty html parser
+shitty html parser to replace beautifulsoup
